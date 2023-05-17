@@ -1,0 +1,11 @@
+What I like about Python :
+
+Readability: Python is incredibly readable and simple to comprehend thanks to its simple syntax and clear design. This feature improves teamwork and code comprehension.
+Python's expressivity and clarity of expression let you do a lot with little code. It is simple to develop effective and beautiful solutions because to its built-in data structures and high-level abstractions.
+Comprehensive standard library: The standard library in Python provides a large selection of modules and functions that are ready-to-use solutions for a variety of tasks, which can reduce the amount of time needed for development.
+Python is simple and has a clear syntax, making it user-friendly for beginners. It enables programmers to concentrate more on solving problems rather than getting bogged down in intricate linguistic details.
+
+What I dislike about Python:
+
+Python has performance issues since it is an interpreted language, which means that it executes programmes more slowly than compiled languages like C and C++. When performance is important, this may be cause for concern.
+(GIL) Global Interpreter Lock Python's inability to fully utilise multiple CPU cores is restricted by the GIL, which could negatively affect the performance of multi-threaded applications.
